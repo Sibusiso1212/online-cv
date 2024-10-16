@@ -1,0 +1,54 @@
+body {
+  font-family: "Public Sans", sans-serif;
+  max-width: 90%;
+  margin:1em auto;
+  
+}
+
+
+/*header content styling*/
+.header{
+
+
+background-color: lightblue;
+font-size: 1.5em;
+text-align: center;
+padding:1em;
+color:white
+
+}
+
+/*resume content styling*/
+
+/*Footer styling*/
+.footer{
+
+background-color: lightblue;
+text-align: center;
+padding:2em;
+color:white;
+
+
+}
+
+.footer a{
+
+text-decoration: none;
+color:white;
+
+
+
+}
+
+.contactInfo{
+
+text-align: right;
+
+}
+
+.contactInfo a {
+
+text-decoration: none
+
+}
+
